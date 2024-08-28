@@ -19,8 +19,8 @@ pip install -r requirements.txt
 ## How to Run the Project
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/your-repo-name.git
-    cd your-repo-name
+    https://github.com/Rayyan9477/Sentiment-Analysis-Model
+    cd Sentiment Analysis Model
     ```
 2. Install the required packages:
     ```sh
@@ -33,33 +33,14 @@ pip install -r requirements.txt
 
 ## Project Structure
 ```
-your-repo-name/
+Sentiment Analysis Model/
 │
-├── data/
-│   ├── raw/
-│   └── processed/
-│
-├── src/
-│   ├── data/
-│   │   ├── make_dataset.py
-│   │   └── clean_data.py
-│   ├── features/
-│   │   └── build_features.py
-│   ├── models/
-│   │   ├── train_model.py
-│   │   └── evaluate_model.py
-│   └── visualization/
-│       └── visualize.py
-│
-├── notebooks/
-│   └── exploratory_data_analysis.ipynb
-│
-├── tests/
-│   └── test_clean_data.py
-│
+├── twiiter_training.csv
+├── twitter_validation.csv
+├── app.ipynb
 ├── requirements.txt
 ├── README.md
-└── main.py
+└── app.py
 ```
 
 ## Screenshot
