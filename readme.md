@@ -48,7 +48,7 @@ Sentiment Analysis Model/
 
 ## Video Demo
 
-[![Watch the video]](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID)
+[Watch the video demonstration](https://github.com/Rayyan9477/Sentiment-Analysis-Model/blob/main/video_demo.mp4)
 
 
 ## Contact
