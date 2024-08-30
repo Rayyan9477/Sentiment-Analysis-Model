@@ -46,6 +46,11 @@ Sentiment Analysis Model/
 ## Screenshot
 ![Project Screenshot](https://github.com/Rayyan9477/Sentiment-Analysis-Model/blob/main/plot.png)
 
+## Video Demo
+
+[![Watch the video]](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID)
+
+
 ## Contact
 - LinkedIn: [Rayyan Ahmed](https://www.linkedin.com/in/rayyan-ahmed9477/)
 - Email: rayyanahmed265@yahoo.com
